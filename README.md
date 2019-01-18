@@ -1,2 +1,2 @@
 # MovieRecommender
-Advanced recommender system with Python using movie ratings database
+Advanced memory based recommender system with Python using movie ratings database
